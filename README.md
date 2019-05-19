@@ -73,6 +73,7 @@ Create a workspace and checkout ledisdb source
    + Install bzip2: sudo apt-get install libbz2-dev
    + Install lz4: sudo apt-get install liblz4-dev
    + Install zstandard: sudo apt-get install libzstd-dev
+   + install leveldb: sudo apt install libleveldb-dev
    + Install rocksdb: sudo apt install librocksdb-dev
 
     
