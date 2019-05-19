@@ -34,8 +34,14 @@ Create a workspace and checkout ledisdb source
 
     cd src/github.com/siddontang/ledisdb
 
+    go get github.com/siddontang/ledisdb
+    go get github.com/siddontang/goredis
+    go get github.com/peterh/liner
+
+
     #set build and run environment 
     source dev.sh
+
 
     make
     make test
